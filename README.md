@@ -8,6 +8,8 @@ Incluye **herramientas integradas (tools)** que permiten:
 - 📝 **Notas** → agrega, lista y elimina notas persistentes en SQLite.  
 - 💬 **IA** → conversación natural, combinando las tools cuando es necesario.  
 
+![imagen repo](https://github.com/user-attachments/assets/6a3bc01a-8fbd-4209-8e31-610d5d06ac1f)
+
 ---
 
 ## 🚀 Demo
@@ -84,7 +86,7 @@ SQLite
 
 OpenAI API
 
-✨ Autor
+Autor
 👨‍💻 Ramiro Chufeni
 
 🌐 GitHub

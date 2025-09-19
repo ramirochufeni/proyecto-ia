@@ -1,0 +1,16 @@
+# Entorno virtual
+.venv/
+__pycache__/
+
+# Configuración privada
+.env
+
+# Base de datos local
+bot
+*.db
+*.sqlite3
+
+# Archivos compilados de Python
+*.pyc
+*.pyo
+*.pyd
